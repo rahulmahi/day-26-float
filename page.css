@@ -1,0 +1,30 @@
+
+ .box-1
+{
+    background-color: blue;
+    height: 200px;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.box-2
+{
+    text-align: center;
+    background-color: brown;
+    height: 200px;
+    width: 50%;
+    float: right;
+}
+.box-3 
+{
+text-align: center;
+background-color: aqua;
+height: 150px;
+/* float: left; */
+}
+.box-3 h1{
+    padding-top: 40px;
+}
+.box-3{
+    clear: both;
+}
